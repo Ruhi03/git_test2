@@ -1,3 +1,6 @@
-.vscode/
+*.class
 bin/
 lib/
+
+.vscode/
+.DS_Store
